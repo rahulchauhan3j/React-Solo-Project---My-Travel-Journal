@@ -1,0 +1,76 @@
+.App {
+}
+.css-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f55a5a;
+  height: 55px;
+  color: #ffffff;
+  font: Inter;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+}
+.css-header-image {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+.css-description-line1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+}
+.css-description-line1-image {
+  width: 7px;
+  height: 10px;
+}
+.css-description-line1-location {
+  font: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  color: #2b283a;
+}
+.css-google-map-location {
+  font: Inter;
+  color: #918e9b;
+  font-size: 10px;
+}
+.css-description-line2 {
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 25px;
+  margin-top: -10px;
+}
+.css-description-line3 {
+  font-size: 10px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.css-description-line4 {
+  font-weight: 400;
+  font-size: 10px;
+}
+.css-card {
+  display: flex;
+  flex-direction: row;
+  gap: 4%;
+  margin: 5%;
+  /* margin-bottom: 8%;*/
+}
+.css-description {
+  display: flex;
+  flex-direction: column;
+}
+.css-location-image {
+  width: 125px;
+  height: 168px;
+  border-radius: 5%;
+}
+.css-horizontal-line {
+  border-color: cornsilk;
+  width: 90%;
+}
